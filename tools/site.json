@@ -1,0 +1,9 @@
+{
+ "base": "https://iptvnetherland.com",
+ "name": "iptvnetherland",
+ "mode": "com",
+ "home_label": "IPTV Nederland",
+ "min_words": 2000,
+ "hub_href": "/nederland-iptv/",
+ "hub_label": "Nederland IPTV"
+}
